@@ -1,0 +1,33 @@
+---
+ID: 2087
+post_title: >
+  Sony’s mixed infrastructure of cloud
+  delivery and streaming from consumer
+  device to consumer device
+author: David
+post_excerpt: ""
+layout: post
+permalink: >
+  https://davidsherlock.co.uk/sonys-mixed-economy-cloud-computing-streaming-consumer-device-consumer-device/
+published: true
+post_date: 2015-01-07 11:01:06
+---
+During my degree my networking tutor made the claim that by 2015 most TV shows, computer programs and music would be streamed through the Internet. He claimed that we would return to a ‘mainframe model’ where homes would be equipped with dumb terminals and we would turn them on, join a domain (where we would all choose different packages of services, a bit like how we choose Sky packages) and everything we wanted to do would be crunched on a mainframe somewhere.
+
+His prediction that increases in bandwidth would change how media is streamed to us was right. Most of my TV and film comes over my Internet connection and I don’t buy music CD’s anymore. I guess you could argue that the prediction that software will be hosted online was kinda right. While applications still live on our machines and most web apps do much of their processing in the browser via Javascript, web apps are still hosted online and applications like Adobe Creative Cloud requite a subscription much like my tutor predicted. Still, I haven’t yet seen many examples of a whole application being hosted online, with all the data crunching happening on the mainframe end. If you believe the <a href="http://www.gartner.com/newsroom/id/2819918">Gartner hype cycle</a> the best is yet to come when it comes to cloud computing. We are finally out of the trough of disillusionment and in 2-5 years it will rise up the slope of enlightenment to the plateau of productivity.
+
+Personally I find that one of the best places to get a feel for upcoming technologies is the games industry. Developers of consoles have a challenge in that they have to develop a piece of hardware that will last anywhere between 5-10 years. Microsoft’s decision to add an Ethernet port and hard drive to every Xbox and requirement that every online gamer had broadband back in the early 00’s gave Microsoft the edge it needed to launch a new product in an extremely competitive market. Last generation we saw the decision of both Sony and Microsoft to force all developers to make their games HD  as an indication that they thought we would all have HD televisions a few years after launch, The key was not to predict what gamers need when a console is released, but what they would need in the next 5 or 10 years of the consoles lifespan.
+
+Last year Microsoft and Sony launched new consoles, with the previous consoles still going strong after 10 years both companies have to think very hard about what gamers will need in 2025. Both came up with different answers. It’s Sony’s answer I am most interested in because while Microsoft have been investing heavily in <a href="http://azure.microsoft.com/en-gb/">cloud computing hardware infrastructure,</a> Sony invested heavily in the software side of streaming technologies and (apparently) still use Amazon AWS as their backend. In 2012 during the lead up to the latest Sony console Sony purchased Gaikai, a company that provides steaming of high end video games. The expert opinion was that they would use the technology to launch a Netflixs style gaming service, which they did and  full details of such  <a href="http://blog.us.playstation.com/2015/01/05/playstation-now-subscription-program-all-the-details/">service were revealed yesterday</a> . The gist being that old games can be streamed from Sony’s servers to Sony's products . The general census online that Sony are covering all bases in case the need for a dedicated console is wiped out by 2015 (so they can stream you the games to a Sony TV instead)
+
+The really truly interesting thing about Sony’s streaming services are not the things they are making a fanfare about now, but the stuff they are not yet making a such a fuss about, the stuff they hope will carry them through to 2025.
+
+Over the past year Sony have released a number of software updates that allow users to stream media not from the Sony network, but from other Sony devices that users have in their home. For example it is possible to play on the PS4 that lives under your telly at home half way across the world on your Android phone or PS vita. Sony’s view on streaming services seems to be that users have a lot of powerful devices in their home, so why not use their processing power instead of the cloud? My guess is the fanfare is missing because the technology is not quite there yet. It works fine if you have a 5mb upload speed at home, something most users don’t have…yet.
+
+Bypassing the cloud and streaming from consumer device to consumer device isn’t on the Gartner Hype cycle but Sony aren’t the only company banking on customers wanting to stream from their more powerful devices. At the beginning of 2014 Value were all ready to bring Steam Machines in to the living room to live under your TV, cheapish machines manufactured by an array of companies that let you stream programs, games and media from your powerful PC to the ‘not so powerful one that lives under the telly’. While Valve would not produce the machines they would own the streaming technology and the failure of not getting the technology out last year being described as ‘<a href="http://www.gameinformer.com/b/features/archive/2014/12/28/opinion-valves-wasted-year.aspx">Valves wasted year</a>’ .
+
+While all the hype has been on the battle of who owns the cloud hardware I can’t help but wonder if the winner will be the company with the protocol to bypass it. Or perhaps we  will see a mixed infrastructure of streaming from the cloud and streaming from the more powerful devices we own. I guess it's to early to tell yet but I am interested in how privacy concerns shape the technology. Do people prefer streaming from their own devices or would they rather pay for the convenience of someone to host it for them?
+
+update:
+
+After a few conversations around the office I'm also interested in how cheap motherboard style computers fit in to this. I guess what I am describing is a scenario where we have a powerful machine or system and then satellite systems that can stream from them. As products like the raspberry/banana pi support are cheap and can run Linux/Android, will they get more popular and be used as cheap dumb terminals?

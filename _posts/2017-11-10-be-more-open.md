@@ -1,0 +1,28 @@
+---
+ID: 2627
+post_title: Be more open
+author: David
+post_excerpt: ""
+layout: post
+permalink: >
+  https://davidsherlock.co.uk/be-more-open/
+published: true
+post_date: 2017-11-10 17:15:31
+---
+Recently I have been struggling with being told to be “Open”. The blog I am hoping to post this on used to be very popular and I would write every week. In that period, I used to write under a daft name to hide the fact is was me who was writing it, I’m not sure if that effected how open I was being, but I used to feel that it meant that spelling mistakes or poorly though out ideas where not mine, but belonged to my character. Around five years ago it became quite clear that I was going to lose my job, and the advice from colleagues/job centers/careers staff was ‘to be more open’. In a panic, and wanting to have something to show to potential employers, I changed all my online profiles from my characters handles of Paddytherabbit to my real name.
+
+Since changing from Paddy to David I have stopped blogging, although I occasionally still make Youtube videos. I am sure there are many reasons for that – it stopped being fun, I started caring about my spelling, but most of all it just felt like an endless game of self-promotion. All these things made me feel that the new open David Sherlock wasn’t open at all. I really regret it now and I’m sure that there are some Jungian ideas on the quest for wholeness that some psychology buffs tell me about explaining that there is something quite healthy about having personas. I would like to change this blog back – but it is kind but giving up anonymity is kind of a one-way thing and I can’t think of any other rabbit names for new blogs.
+
+Recently, I’ve found myself in a situation where those who know my work best are telling me that I should be writing about it and identifying myself with the writing. Again, I am being told I “need to be open”. I’m really struggling with this, can somebody just tell me, what is open?
+
+I struggle with "being open" for two reasons. First, as I felt that copying the approach to open that was being pitched to me was just copying an approach to self-promotion. With self-promotion comes all sorts of things that stopped me feeling open. Should I say X or will a potential employer like it if I say Y? Do I have the authority to say Z? Should I be having thoughts on XYZ or will my colour/sex/age/race/religion make me seem like a hypocrite?
+
+I feel like just going back starting a new professional blog and telling nobody, but am I really being open if I go back to writing under a different name. It feels like that is really the thing I should do, as my blog was at its peak then, both content wise and ‘hits-wise’. However, in a week that <a href="https://www.theguardian.com/technology/shortcuts/2017/nov/03/jenna-abrams-the-trump-loving-twitter-star-who-never-really-existed">Jenna Abrams is unmasked as a product of the Internet Research Agency in St Petersberg</a>, this feels a little dishonest.  That was clearly someone pretending to someone they weren’t, I guess pretending to be a rabbit is more puffery? <a href="https://www.highsnobiety.com/2017/07/11/hulk-hogan-documentary/">I mean, that stands in court, right?</a> . There is also an advantage of people knowing your work and what you think. Perhaps there is a way to do it 'half and half'.
+
+Still, I think my struggles with the second issue are more import. The issue is: how does an open person use technology in an open way? I find it interesting how Twitters change in character limit has had so much discussion among journalists and <a href="https://howsheilaseesit.blog/2017/11/09/the-long-and-short-of-it/">friends</a>. Isn't that really telling about how we communicate? When I was pushed to “be more open”, I started to try and use social media more, but just how open am I when a major communication channel depends on a corporation’s view on the number of characters? If I hand over my content to large corporations like Linked-In, Facebook, Twitter does that make me more open? How about if I write more papers in academic journals or publish my thoughts in a book £15.99 at Waterstones with a well-designed hardback cover and do a promotional TedX talk? These are the ways that successful people appear to be open but I don’t feel like any of those approaches are. I certainly don’t feel like posting this to a Wordpress blog is being open. I think there is a struggle in the current technological landscape to be open and that large corporations purposely turn open in to self-promotion. In technology and education I don’t think that something ‘being there’ is the same as "being open". How can people interact with my stuff, how can they expand, remix. It isn't solely about the right license.
+
+How can I be more open? Should I post everything I think to some git repository with an open license? Would that be open? What about the people who can’t use git? I’ve really struggled to find examples of being open where I have thought: “Yes! That is what I want to do” with perhaps the exception of getting excited at the sign some kids made in this picture taken by a <a href="http://dailyimprovisation.blogspot.co.uk/2017/10/mozfest-technology-coolness.html">friend </a>at a Mozilla festival this year:
+
+<img class="alignnone" src="https://4.bp.blogspot.com/-dA4VMe_MDN0/WfcYGoS8pUI/AAAAAAAACJo/cMdbGyP0EjY2cdDvM3_qKEfIeC3ZWkXSwCEwYBhgL/s1600/WP_20171028_13_11_24_Pro.jpg" width="1600" height="901" />
+
+I think that being open wih the help of technology is really hard. The problem is that when I think “how can I be open”, there just simply isn’t a way without doing something different, but in a time of such uncertainty doing something different is the hardest thing to do.

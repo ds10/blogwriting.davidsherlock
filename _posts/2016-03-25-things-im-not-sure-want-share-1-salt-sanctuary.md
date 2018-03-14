@@ -1,0 +1,22 @@
+---
+ID: 2532
+post_title: 'Things I’m not sure I want to share. #1. Salt and Sanctuary'
+author: David
+post_excerpt: ""
+layout: post
+permalink: >
+  https://davidsherlock.co.uk/things-im-not-sure-want-share-1-salt-sanctuary/
+published: true
+post_date: 2016-03-25 10:01:44
+---
+<em>This post originally had lots of images, videos and screenshots. I’ve taken them out because you will have more fun in Salt and Sanctuary without seeing them.</em>
+
+I’ve recently been playing a game called Salt and Sanctuary and I’m absolutely loving it, in fact it’s been a long time since I’ve played a game and thought to myself ‘I’m really enjoying this’. The feeling has made me wonder, what exactly makes me really enjoy a game and why do I play games if I’m not really enjoying them? I don’t play games as much as I used to, and in some ways I think I enjoy games more because of that. When you lap up every big AAA title you really see just how similar they are, how little difference there is between FIFA 12, FIFA 13, FIFA14, FIFA, 15 and FIFA 16 except the latest monetization technique, when game players need to purchase all those ultimate team characters packs all over again just to be on the same level playing field as their friends.
+
+While playing Salt and Sanctuary I just love being in the world, it’s odd because the world is actually quite bland, it has a dark colour pallet and is also in 2D. I’m sure that the reason I like it so much is because the game is just different to the majority of games I play. The core mechanics of the game have been explored before in games like Demons/Dark Souls, you are a warrior type character in a world with exceptionally hard to defeat monsters. You get Salt (Souls) which are basically experience points, you can cash experience points in for levels at a Sanctuary (basically a save point), but if you die before getting to a Sanctuary the Salt is consumed by the monster that killed you. When you die or use a save point all monsters return and the only way to get the Salt back is to make it back to the bit of the level where that monster lives and kill it, die and the Salt is lost forever. The tension of the game being quite hard, plus the player not wanting to die and lose their precious Salt makes them really concentrate. The last game I enjoyed this much was a Japanese import of Demons Souls, the game in which Salt and Sanctuary takes its cue. It employs similar mechanics to a 3D word, it cost me a little more to buy then a game usually would and the man at the import shop I wouldn’t like it. I purchased it anyway and was absolutely captivated.
+
+Salt and Sanctuary is a small time indie game and the Internet is not currently swamped with fans discussing it, every detail hasn’t been uncovered and its unlikely your come across somebody randomly talking about their favourite bit in a YouTube video. Demons Souls might have now evolved in to the hugely popular and utterly brilliant Dark Souls series, but when I first got it from that import shop it was new and exciting and all mine. No wiki’s, YouTube videos or friends who had already completed it.
+
+I love Salt and Sanctuary for the same reason I loved Demon’s Soul’s. It is an experience that hasn’t been spoiled yet. The mechanics and game world, while familiar, are still different then most games. It isn’t a hugely popular game and it feels like it is all mine to discover, the wiki isn’t finished and spoilers aren’t popping up on my Twitter or Facebook feed. The Salt/Souls system and difficulty of the game demand that you pay the world attention or you can’t progress, it means you can’t just have my laptop open while I play or check some fact out on your smart phone.
+
+Still, while these reasons really make me love the game world it also makes me want to share it. As I discover something I want to document it on the wiki, I need to write a blog post about why the game is just so good. I want to publish a video straight from my PS4. The Internet are great, sharing things we love is great. Twitter, Twitch, YouTube and game wikis are all great. But technology makes finding that unspoiled world to explore really hard. When you find yourself in one it is amazing, just like discovering a book before Amazon/GoodReads/Wikipedia, when you weren't checking your phone every page turn.

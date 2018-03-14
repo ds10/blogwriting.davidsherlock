@@ -1,0 +1,22 @@
+---
+ID: 882
+post_title: The Student as a Moral Compass
+author: David
+post_excerpt: ""
+layout: post
+permalink: >
+  https://davidsherlock.co.uk/the-student-as-a-moral-compass/
+published: true
+post_date: 2014-01-02 12:56:47
+---
+In video games the moral compass is a usually a character or narrator who passes judgement on the players actions. Probably the most famous moral compass is The Walking Dead's Clementine (<a href="http://www.bbc.co.uk/news/magazine-25305351">who recently got a </a>
+
+[caption id="attachment_883" align="alignright" width="300"]<a href="http://davidsherlock.co.uk/wp-content/uploads/2014/01/clem.png"><img class="size-medium wp-image-883 " alt="those eyes" src="http://davidsherlock.co.uk/wp-content/uploads/2014/01/clem-300x253.png" width="300" height="253" /></a> those eyes[/caption]
+
+<a href="http://www.bbc.co.uk/news/magazine-25305351">mention on BBC</a>). I really recommend the The Walking Dead, forget preconceptions of video games you may have, game is a really bad word to describe it; it's more of a story and if you enjoy stories you really should check it out. In this story you play an escaped convict who has to survive in this post-apocalyptic zombie filled world. Quite early on you meet a young girl called Clementine, who you must protect. While Clem might relay
+
+on your strength and knowledge she quickly becomes your moral compass as you make decisions on how to survive. Whatever decisions you make during the story you will always be a father  to her, the game never breaks this bond between you and Clem but this makes it so much harder when you made a tough decision and she looks at you with <em>those</em> eyes. The art director of the Walking Dead is the brilliant Derek Sakai, he has a children of his own and the idea of Clem was loosely based on her and the interactions he has with her (although the character is a creation from multiple brilliant people at telltale games). I read an interesting quote, which I can find reference to on the web, but unfortunately can not find the original interview. David's quote was some something along the lines of:  <em>the less he hears his children say, the smarter he believes they are.</em>
+
+Clementine is a very quiet character, her silence is often the biggest clue to what she thinks to your actions. Sometimes, when you do something awful, something that you must do to survive she voices her disapproval; it's times like this the player feels they are robbing her of that moral compass, yet it's for necessity. Not only do you need the food/need to escape/etc, but one day she will be an adult and be forced to make similar decisions to survive. Sometimes however, she doesn't say anything. When the adults loot a strangers car for supplies they don't desperately need Clem doesn't say a word. Her silence is the biggest judgement on the adults of the story. Times like this in the story are the worst, when Clem looks on not speaking out, it to let the player know not only are we robbing Clem of her compass, but the characters have already lost theirs.
+
+The students I mainly deal with come from a certain sort kind of University. It's hard to explain why these Universities are of a 'type'. Perhaps people would call them 'widening participation' Universities, I went to one myself. They do not have large student unions and often I feel the students are subdued. I was wondering recently why they don't have a voice. I know a University where the students have put up with a lot of turbulence. The students don't come from privileged backgrounds, I hear some pretty harsh stories of how they have been treated, both inside the institution and out. Yet still they march on, not saying a word. As a tutor I find it difficult to be hard on these students because I know they are already having a difficult time, but sometimes I know I need to be honest even if it isn't what they want to hear. I wonder when they'll tell us they can't treat them the way we have anymore and that they'll voice their disapproval.  I hope that day comes soon because the silence is worse,  as somebody involved in education I feel that when they don't speak out I'm not preparing them for anything, just robbing them of a moral compass when we've already lost ours.

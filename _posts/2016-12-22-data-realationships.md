@@ -1,0 +1,19 @@
+---
+ID: 2590
+post_title: Data-realationships
+author: David
+post_excerpt: ""
+layout: post
+permalink: >
+  https://davidsherlock.co.uk/data-realationships/
+published: true
+post_date: 2016-12-22 16:28:10
+---
+At a recent PhD seminar, a group of students had to talk about a particular thesis problem they had on two slides; mine was that I seemed to have created The NeverEnding Literature Review. I had lots of ‘themes’ in my literature review, and lots of different fields of study were interested in these themes, each field of study with a different take to digest and review. I started to complain about my review of data privacy literacy and how the Snowden revelations in 2013 when I had just started my thesis, had changed everything. About how every day a news item seemed relevant, the Investigatory Powers Act one day and Europe’s response the next. A lot of my thesis looks at ‘data-relationships’ between people and institutions. If we are aware of it or not, organisations take information from us and then feed it back through the services they provide; our consumption of these services then have a knock on effect to the data we generate. So far in my thesis, I have been calling this a positive feedback loop – I have been told that this has been recently deemed the ‘echo chamber’ (ToDo: ctrl c + ctrl v).
+<br/>
+The group then started to discuss all the things they had seen in the news in the last month that could be relevant to my thesis. Things that they had read about in the last few months alone:<a href="https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook"> fake news</a> , the <a href="http://www.theregister.co.uk/2016/12/21/eu_judgment/">Investigatory Powers Act</a>, <a href="https://www.theguardian.com/commentisfree/2016/dec/11/google-frames-shapes-and-distorts-how-we-see-world">Google algorithm bias</a> etc etc. One of the students caught me off surprise and said that I needed to frame my work, that the discussion won’t just stop because my work isn’t about technology at its core – it is about civil liberties.
+I think they were probably right – that my work is about our liberties, but it is also about technology. The fact we don’t understand what the ‘data collection–&gt;analysis–&gt;feedback’ loop does is oppressive. This raises the question, which is probably where my literature should sit: ‘how do we give an insight into what these relationships are doing?’.
+<br/>
+How do we get an understanding of the algorithms? The problem is that we can’t just ‘teach’ them anymore. Firstly, because we don’t know what they are; I’d be very surprised if you could even get a top Google programmer to coherently explain the Google ranking algorithm even if they were allowed to. Secondly, because teaching these things doesn’t explain the knock-on effects to society. There is recognition that the 21st-century workplace needs these skills, we see this in a big push to teach I.T and coding skills all over the world. But when we try to teach computing concepts we tackle it as if they are things that can be learnt in a what Freire would call a banking education model, where we fill students up with knowledge like a piggy bank with spare coins. We can’t teach that way to explain the effects of data-relationships and the algorithms/statistical models/collection methods, how can we teach something we don’t understand?
+<br/>
+Perhaps it is a tedious link, but understanding data-relationships is perhaps like Freire's teaching of a second language. Do people have the time to sit down and work out which algorithms are deployed where? Why should they care?  Isn’t the ability to contact Uncle Bob on FaceBook useful? I think we need to understand these relationships to protect our freedoms; perhaps we should spread the message through people’s immediate concerns in a ‘Working out the world before working out the algorithm approach’.

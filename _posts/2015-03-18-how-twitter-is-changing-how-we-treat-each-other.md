@@ -1,0 +1,26 @@
+---
+ID: 2160
+post_title: >
+  How Twitter is changing how we treat
+  each other
+author: David
+post_excerpt: ""
+layout: post
+permalink: >
+  https://davidsherlock.co.uk/how-twitter-is-changing-how-we-treat-each-other/
+published: true
+post_date: 2015-03-18 12:01:12
+---
+Anita Sarkeesian is a media critic currently responsible for the production of the video series Tropes vs Women in Video Games where she presents commentary and analysis about gender representation. <a href="http://femfreq.tumblr.com/post/109319269825/one-week-of-harassment-on-twitter">This Tumblr blog post of hers</a>  features a small collection of some of the tweets directed to her on an average day. There are more than 50 tweets on this page, ranging from ‘so basically you’re a cunt’ to ‘please die in a car crash’ and back to ‘Feminist? That term can only be used in real women. Stop soiling what that ideology stands for ya dumb whore.’ Anita receives these insults and threats daily and every time news of these tweets against her hit the news they simply increase.
+
+Zoe Quinn is a game developer interested in how depression effects people and released the interactive fiction game depression quest exploring the issue. A series of tweets, reviews, blog posts later Zoe and her family where receiving serious death threats revolving around the Twitter hashtag #GamerGate. <a href="http://www.bbc.co.uk/news/technology-29821050">This BBC interview </a>from October last year was given while she was in the UK too scared to return to her home, it is a hard interview to watch, Zoe’s life is ruined and the she is clearly distraught. When asked if she things that the backlash has made people aware of the ethical issues (in the game industry) Zoe is clearly disturbed by the question and gives an interesting answer, which is that any concerns that are raised are aimed at the people with the least power in the industry and any of the real concerns about ethics and journalism have been completely ignored, such as the relationship between publishers and journalists.
+
+It does not matter what you think of the work of Anita or Zoe, this harassment is plain wrong. Twitter plays a big role in this harassment, not just by the constant barrage of insults and threats through the same medium in which they are trying to present analysis of their work, but also helps the victimisers to create a narrative (in these instances a largely anti feminist one) that can then be used as a focus for Youtube channels and their associated crowdfunding tools. <a href="http://boingboing.net/2015/01/14/how-crowdfunding-helps-haters.html">Jay Allen, writing at Boingboing</a> has a good description of how some of these victimisers manage to turn their Twitter bigotry in something that pays bills, its a disturbing read but a good insight to how Twitter is the key in making the whole thing work and helping to create this 'cottage industry of professional victimizers'.
+
+Iin the education sector we should looking at this harassment and over these communication channels and asking why it is happening. How and why is the medium fueling this kind of treat of treatment of each other. Zoe’s answer to the ethics interview was an interesting one because while it was about games she pointed out that it isn’t really the individual victimisers that need investigation, its how the big players are talking to each other and treating the consumer as a result. I think what she is saying is true, the victimisers themselves are following a lead or example set by organisations further up the chain.
+
+In academia the use of Twitter has become a bit of a theocracy, we see academic papers everywhere on amplification, I read a blog post recently entitled ‘can academics manage without Twitter’ that filled with comments about without Twitter your not really an academic. As academics are obsessed with how things are implemented? Do we love Twitter because it can be implemented and works? Did we forget the bit where we work out what it is doing to us as people?
+
+All that being said, I do actually think that Twitter is an important tool and I don’t really mean for this post to sound so negative. The issue I take is that important tools have big consequences and it is not good enough to say that it implements well in to a domain and that it seems to be working. Zoes point about looking at individual actions instead of the large organisations really hit home. If one thing is theologized as much as Twitter in academia then its <a href="http://bogost.com/writing/the-cathedral-of-computation/">Big Data</a>,  and it feels the way the big corporations are treating us through analysis of our Twitter/Big Data setting a precedence the way we treat each other. Not only do we need to work out what is going on and how it is affecting us but we need to avoid our academic institutions doing the same.
+
+<span style="font-size: small;"><em>(Writes a clickbait heading for a blogpost on how communication mediums change us as people.)</em></span>
