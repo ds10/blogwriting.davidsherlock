@@ -5,7 +5,7 @@ author: David
 post_excerpt: ""
 layout: page
 permalink: >
-  https://davidsherlock.co.uk/privacy-policy/
+  http://davidsherlock.co.uk/privacy-policy/
 published: true
 post_date: 2013-10-31 23:56:40
 ---
