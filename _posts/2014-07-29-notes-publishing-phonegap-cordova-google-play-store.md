@@ -28,7 +28,7 @@ to build and run the project:
 <pre class="lang:default decode:true ">cordova build &amp;&amp; cordova run</pre>
 To get the project on the play store you need to sign it with a certificate. You can create the certificate yourself. Since I’m using Eclipse with the  I decided to use eclipse to generate the certificate as I already manage and create certificates using the eclipse keytool pluging http://keytool.sourceforge.net/update
 
-Automating the signing process was difficult for somebody not that familiar with ant, there was a lack of clear documentation on how to do this, but I did find this guide by Adam Wade Harris worked perfectly : http://www.adamwadeharris.com/android-automation/ . I’ll duplicate his instructions for the sake of my own notes, but all credit goes to Adam:
+Automating the signing process was difficult for somebody not that familiar with ant, there was a lack of clear documentation on how to do this, but I did find this guide by Adam Garrett-Harris worked perfectly : https://adam.garrett-harris.com/android-automation . I’ll duplicate his instructions for the sake of my own notes, but all credit goes to Adam:
 
 Open platforms/android/build.xml and make sure it has/add
 <pre class="lang:default decode:true ">&lt;property file="ant.properties" /&gt;
