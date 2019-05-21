@@ -5,7 +5,7 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davidsherlock.co.uk/social-media-and-models-of-the-world/
+  http://davidsherlock.co.uk/social-media-and-models-of-the-world/
 published: true
 post_date: 2019-05-21 10:37:29
 ---
