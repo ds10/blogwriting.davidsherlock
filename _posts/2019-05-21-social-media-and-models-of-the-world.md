@@ -1,11 +1,11 @@
 ---
 ID: 2695
-post_title: Social Media and models of the world
+post_title: Models
 author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  http://davidsherlock.co.uk/social-media-and-models-of-the-world/
+  https://davidsherlock.co.uk/social-media-and-models-of-the-world/
 published: true
 post_date: 2019-05-21 10:37:29
 ---
@@ -90,6 +90,10 @@ look like one. I still believed it should look the same on every device and the
 content should be the same as if you accessed it on every device. Whatever a characteristics
 a website needs to be a website instead of a document, I’d take them.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Models of the world</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>I still think of websites as dynamic documents, that have some
