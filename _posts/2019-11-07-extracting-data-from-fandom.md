@@ -5,7 +5,7 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davidsherlock.co.uk/extracting-data-from-fandom/
+  http://davidsherlock.co.uk/extracting-data-from-fandom/
 published: true
 post_date: 2019-11-07 08:45:12
 ---
