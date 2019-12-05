@@ -7,14 +7,13 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  http://davidsherlock.co.uk/analysing-results-storyline-using-google-forms/
+  https://davidsherlock.co.uk/analysing-results-storyline-using-google-forms/
 published: true
 post_date: 2017-08-10 14:09:24
 ---
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:freeform -->
-<p></p>
 <p></p>
 <!-- /wp:freeform --></div></div>
 <!-- /wp:group --></div></div>
@@ -254,9 +253,9 @@ statusCode: {
 <p>Inbetween the two bits of javascript call the function:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>postToGoogle()</p>
-<!-- /wp:paragraph -->
+<!-- wp:enlighter/codeblock -->
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">postToGoogle()</pre>
+<!-- /wp:enlighter/codeblock -->
 
 <!-- wp:paragraph -->
 <p>Now whenever you run that slide and set variables will be sent to the form as a response, you can download all responses or view them one by one in forms as such (mine is full of test data):</p>
