@@ -7,7 +7,7 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davidsherlock.co.uk/analysing-results-storyline-using-google-forms/
+  http://davidsherlock.co.uk/analysing-results-storyline-using-google-forms/
 published: true
 post_date: 2017-08-10 14:09:24
 ---
