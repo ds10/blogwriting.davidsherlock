@@ -7,16 +7,15 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  http://davidsherlock.co.uk/analysing-results-storyline-using-google-forms/
+  https://davidsherlock.co.uk/analysing-results-storyline-using-google-forms/
 published: true
 post_date: 2017-08-10 14:09:24
 ---
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:freeform -->
-<p> </p>
-<p> </p>
-<p> </p>
+<p></p>
+<p></p>
 <!-- /wp:freeform --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group -->
@@ -57,28 +56,36 @@ post_date: 2017-08-10 14:09:24
 <p>You now want to click the "…" box next to "Script" and paste in this javascript. You do not need script tags:</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:enlighter/codeblock -->
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group=""></pre>
+<!-- /wp:enlighter/codeblock -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:enlighter/codeblock -->
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">var head = document.getElementsByTagName('head')[0];
+var script = document.createElement('script');
+script.src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js';
+script.type = 'text/javascript';
+head.appendChild(script);</pre>
+<!-- /wp:enlighter/codeblock -->
+
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var head = document.getElementsByTagName('head')[0];</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var script = document.createElement('script');</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>script.src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js';</code></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><code>script.type = 'text/javascript';</code></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><code>head.appendChild(script);</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -101,96 +108,122 @@ post_date: 2017-08-10 14:09:24
 <p>Now we want to head back to the final slide and edit the javascript we started before. We are not going to delete the javascript, but going to add a function to it. So under the previous text add the following function:</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:enlighter/codeblock -->
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">function postToGoogle() {
+var player=GetPlayer();
+var questionone=player.GetVar("questionone ");
+var questiontwo=player.GetVar("questiontwo ");
+var questionthree=player.GetVar("questionthree ");
+var field1 = questionone;
+var field2 = questiontwo;
+var field3 = questionthree;
+$.ajax({
+url: "FORM",
+data: {"x ": field1, "x": field2, "x": field3},
+type: "POST",
+dataType: "xml",
+statusCode: {
+0: function() {
+//Success message
+},
+200: function() {
+//Success Message
+}
+}
+});
+}</pre>
+<!-- /wp:enlighter/codeblock -->
+
 <!-- wp:paragraph -->
-<p><code>function postToGoogle() {</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var player=GetPlayer();</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var questionone=player.GetVar("questionone ");</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var questiontwo=player.GetVar("questiontwo ");</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var questionthree=player.GetVar("questionthree ");</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var field1 = questionone;</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var field2 = questiontwo;</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>var field3 = questionthree;</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>$.ajax({</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>url: "FORM",</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>data: {"x ": field1, "x": field2, "x": field3},</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>type: "POST",</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>dataType: "xml",</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>statusCode: {</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>0: function() {</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>//Success message</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>},</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>200: function() {</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>//Success Message</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>}</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>}</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>});</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><code>}</code></p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
