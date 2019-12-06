@@ -7,7 +7,7 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davidsherlock.co.uk/installing-r-scripting-extension-in-knime/
+  http://davidsherlock.co.uk/installing-r-scripting-extension-in-knime/
 published: true
 post_date: 2019-12-06 17:06:00
 ---
