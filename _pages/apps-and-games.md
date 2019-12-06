@@ -5,7 +5,7 @@ author: David
 post_excerpt: ""
 layout: page
 permalink: >
-  https://davidsherlock.co.uk/apps-and-games/
+  http://davidsherlock.co.uk/apps-and-games/
 published: true
 post_date: 2019-12-06 10:49:56
 ---
