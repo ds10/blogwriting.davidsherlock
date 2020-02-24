@@ -5,7 +5,7 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davidsherlock.co.uk/wtf-is-learning-technology/
+  http://davidsherlock.co.uk/wtf-is-learning-technology/
 published: true
 post_date: 2020-02-24 11:23:09
 ---
