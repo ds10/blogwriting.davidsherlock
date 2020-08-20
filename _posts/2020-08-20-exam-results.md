@@ -4,7 +4,8 @@ post_title: Exam Results
 author: David
 post_excerpt: ""
 layout: post
-permalink: http://davidsherlock.co.uk/exam-results/
+permalink: >
+  https://davidsherlock.co.uk/exam-results/
 published: true
 post_date: 2020-08-20 14:33:57
 ---
@@ -45,5 +46,5 @@ post_date: 2020-08-20 14:33:57
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>An understanding of how these things interact, what they are and how they are used requires us to pick the tools up and try them. It requires us to be able to talk to each other about the different aspects of them and how they work together? We have to do better than say ‘this is bad’ when ‘the other wing’ wins.</p>
+<p>An understanding of how these things interact, what they are and how they are used requires us to pick the tools up and try them. It requires us to be able to talk to each other about the different aspects of them and how they work together. We have to do better than say ‘this is bad’ when ‘the other wing’ wins.</p>
 <!-- /wp:paragraph -->
