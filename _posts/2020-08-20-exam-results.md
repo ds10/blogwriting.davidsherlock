@@ -4,7 +4,8 @@ post_title: Exam Results
 author: David
 post_excerpt: ""
 layout: post
-permalink: http://davidsherlock.co.uk/exam-results/
+permalink: >
+  https://davidsherlock.co.uk/exam-results/
 published: true
 post_date: 2020-08-20 14:33:57
 ---
@@ -25,7 +26,7 @@ post_date: 2020-08-20 14:33:57
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>What is an elephant</h2>
+<h2>What is an elephant?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
