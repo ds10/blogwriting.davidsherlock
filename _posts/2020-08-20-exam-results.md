@@ -4,8 +4,7 @@ post_title: Exam Results
 author: David
 post_excerpt: ""
 layout: post
-permalink: >
-  https://davidsherlock.co.uk/exam-results/
+permalink: http://davidsherlock.co.uk/exam-results/
 published: true
 post_date: 2020-08-20 14:33:57
 ---
