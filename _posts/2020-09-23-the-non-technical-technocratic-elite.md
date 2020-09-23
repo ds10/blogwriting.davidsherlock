@@ -5,7 +5,7 @@ author: David
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davidsherlock.co.uk/the-non-technical-technocratic-elite/
+  http://davidsherlock.co.uk/the-non-technical-technocratic-elite/
 published: true
 post_date: 2020-09-23 12:44:26
 ---
